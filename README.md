@@ -1,9 +1,9 @@
-# Hello World!
+# *Hello World!*
 
 *I am a student of Netology.*
 *I love to study and learn new things!* 
 
-<u>Training Checklist:<u>
+Training Checklist:
 
 - [x] Manual testing of web applications
 - [x] GIT
@@ -11,4 +11,4 @@
 - [ ] Diploma project
 
 
-![Изображение](<img scr="Foto/IMG_6632.HEIC" alt="My Logo">)
+![Фото](img/IMG_6632.png)
